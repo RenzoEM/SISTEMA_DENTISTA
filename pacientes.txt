@@ -1,0 +1,2 @@
+Nombre: carlos, Edad: 20, Problema: Muerto
+Nombre: Renzo, Edad: 13, Problema: Endodoncia
